@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
-      - cv.qmd
+      - CV.qmd
 
 format:
   html:
