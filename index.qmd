@@ -1,11 +1,22 @@
 ---
-title: "Home"
+title: "Megan Hokama, MA"
+subtitle: "PhD Candidate at the University of Arizona"
+about: 
+  id: hero-heading
+  template: jolla
+  image: images/constellationlogo.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/meganhokama
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/meganhokama/
 ---
 
-This is a Quarto website.
+I am a PhD candidate, researcher, and educator in education <br> with a passion for fostering research identity and self-efficacy <br> in underrepresented undergraduate students.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My **research** focuses on digital game-based learning <br> to enhance data literacy and motivation, with **committment** <br> to creating open-source learning spaces <br> that inspire and support future researchers.
 
-```{r}
-1 + 1
-```
+
+##### [Learn more about me](/about.qmd){.test}

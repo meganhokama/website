@@ -3,9 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Megan Hokama"
+  favicon: images/icon.png
   navbar:
-    left:
+    logo: images/icon.png
+    title: Megan Hokama
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -14,10 +16,11 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: 
+      light: minty
+      dark: [minty, theme-dark.scss]
     css: styles.css
     toc: true
 
 editor: visual
 
-# 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 

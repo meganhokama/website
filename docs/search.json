@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "University of Arizona | Tucson, AZ\nPepperdine University | Malibu, CA\nLoyola Marymount University | Los Angeles, CA"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Arizona | Tucson, AZ\nPepperdine University | Malibu, CA\nLoyola Marymount University | Los Angeles, CA"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nThe Biomarkers for Social, Psychological Health & Education Retention Explorers Lab | Project Coordinator | August 2021 to Present"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Megan Hokama, MA",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD candidate, researcher, and educator in education  with a passion for fostering research identity and self-efficacy  in underrepresented undergraduate students.\nMy research focuses on digital game-based learning  to enhance data literacy and motivation, with committment  to creating open-source learning spaces  that inspire and support future researchers.\n\nLearn more about me"
   }
 ]
