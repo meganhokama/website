@@ -1,4 +1,4 @@
-#Personal website for Megan Hokama
+###Personal website for Megan Hokama
 
 Welcome to my repo for my personal/academic website! I utilized Quarto to put everything together. 
 
