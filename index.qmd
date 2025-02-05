@@ -4,7 +4,7 @@ subtitle: "PhD Candidate at the University of Arizona"
 about: 
   id: hero-heading
   template: jolla
-  image: images/constellationlogo.png
+  image: images/profile.jpg
   links:
     - icon: github
       text: Github
@@ -12,11 +12,39 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/meganhokama/
+    - icon: send
+      text: Email
+      href: mailto:meganhokama@arizona.edu
+      
 ---
 
-I am a PhD candidate, researcher, and educator in education <br> with a passion for fostering research identity and self-efficacy <br> in underrepresented undergraduate students.
 
-My **research** focuses on digital game-based learning <br> to enhance data literacy and motivation, with **committment** <br> to creating open-source learning spaces <br> that inspire and support future researchers.
+::: {#hero-heading}
+:::
 
+<span class="half-height-br"></span>
 
-##### [Learn more about me](/about.qmd){.test}
+<p style="text-align:center;">I am a PhD candidate in Educational Psychology at the University of Arizona.</p>
+
+<p style="text-align:center;">My **research** focuses on digital game-based learning to enhance data literacy and motivation, with **committment** to creating open-source learning spaces that inspire and support future researchers.</p>
+ 
+
+::: {.panel-tabset}
+
+## [**Educator**]{.h2}
+
+I thrive on exploring impactful questions in collaboration with key stakeholders. My expertise lies in adeptly wrangling complex and contextually rich data to derive meaningful insights. Passionate about innovation, I develop novel tools and solutions to enhance the efficiency and findings of future analyses.
+
+## [**Research**]{.h2}
+
+As an early-career professional working in Public Health, I actively seek projects that aim to elevate the human condition, transforming the way we work, play, and contribute to our communities. My recent work has focused on suicide, overdose, and injury prevention, and I have previous experience working in digital health, communicable disease prevention, and environmental health. As can be seen by the diversity of these experiences, I am a continuous learner and excited to exploring new fields where I can make an impact.
+
+## [**Skills**]{.h2}
+
+As a continuous learner, I have recently expanded my skillset to include topics such as Quarto, leveraging multiple programming languages (R/Python/SQL), package development, and interactive data visualization, and reproducible coding practices.
+
+## [**Hobbies**]{.h2}
+
+I have many hobbies that help me explore and celebrate the awesome outdoor recreational spaces we have in Washington such as backcountry skiing, sailing, windsurfing, tennis, long distance running, and biking.Additionally, I love to cook (and share recipes), attend concerts & music festivals (I recommend [THING](https://thingnw.org/)), travel (I have traveled to 35 countries), and cheer on the Seahawks!
+
+:::
