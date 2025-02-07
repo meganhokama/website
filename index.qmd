@@ -31,7 +31,7 @@ about:
 
 ::: {.panel-tabset}
 
-## [**Educator**]{.h2}
+## [**Teaching**]{.h2}
 
 I thrive on exploring impactful questions in collaboration with key stakeholders. My expertise lies in adeptly wrangling complex and contextually rich data to derive meaningful insights. Passionate about innovation, I develop novel tools and solutions to enhance the efficiency and findings of future analyses.
 

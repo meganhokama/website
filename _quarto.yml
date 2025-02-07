@@ -10,9 +10,9 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
       - CV.qmd
+      - projects.qmd
+      - publications.qmd
       - StatQuest.qmd
   page-footer:
     border: true

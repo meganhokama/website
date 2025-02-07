@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "TrailCoder\n\n\n\nTwine\n\n\nHTML\n\n\nPython\n\n\n\nPython Coding Game - Twine\n\n\n\nMay 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Megan Hokama, MA",
     "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nI am a PhD candidate in Educational Psychology at the University of Arizona.\n\n\nMy research focuses on digital game-based learning to enhance data literacy and motivation, with committment to creating open-source learning spaces that inspire and support future researchers.\n\n\nEducatorResearchSkillsHobbies\n\n\nI thrive on exploring impactful questions in collaboration with key stakeholders. My expertise lies in adeptly wrangling complex and contextually rich data to derive meaningful insights. Passionate about innovation, I develop novel tools and solutions to enhance the efficiency and findings of future analyses.\n\n\nAs an early-career professional working in Public Health, I actively seek projects that aim to elevate the human condition, transforming the way we work, play, and contribute to our communities. My recent work has focused on suicide, overdose, and injury prevention, and I have previous experience working in digital health, communicable disease prevention, and environmental health. As can be seen by the diversity of these experiences, I am a continuous learner and excited to exploring new fields where I can make an impact.\n\n\nAs a continuous learner, I have recently expanded my skillset to include topics such as Quarto, leveraging multiple programming languages (R/Python/SQL), package development, and interactive data visualization, and reproducible coding practices.\n\n\nI have many hobbies that help me explore and celebrate the awesome outdoor recreational spaces we have in Washington such as backcountry skiing, sailing, windsurfing, tennis, long distance running, and biking.Additionally, I love to cook (and share recipes), attend concerts & music festivals (I recommend THING), travel (I have traveled to 35 countries), and cheer on the Seahawks!"
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nI am a PhD candidate in Educational Psychology at the University of Arizona.\n\n\nMy research focuses on digital game-based learning to enhance data literacy and motivation, with committment to creating open-source learning spaces that inspire and support future researchers.\n\n\nTeachingResearchSkillsHobbies\n\n\nI thrive on exploring impactful questions in collaboration with key stakeholders. My expertise lies in adeptly wrangling complex and contextually rich data to derive meaningful insights. Passionate about innovation, I develop novel tools and solutions to enhance the efficiency and findings of future analyses.\n\n\nAs an early-career professional working in Public Health, I actively seek projects that aim to elevate the human condition, transforming the way we work, play, and contribute to our communities. My recent work has focused on suicide, overdose, and injury prevention, and I have previous experience working in digital health, communicable disease prevention, and environmental health. As can be seen by the diversity of these experiences, I am a continuous learner and excited to exploring new fields where I can make an impact.\n\n\nAs a continuous learner, I have recently expanded my skillset to include topics such as Quarto, leveraging multiple programming languages (R/Python/SQL), package development, and interactive data visualization, and reproducible coding practices.\n\n\nI have many hobbies that help me explore and celebrate the awesome outdoor recreational spaces we have in Washington such as backcountry skiing, sailing, windsurfing, tennis, long distance running, and biking.Additionally, I love to cook (and share recipes), attend concerts & music festivals (I recommend THING), travel (I have traveled to 35 countries), and cheer on the Seahawks!"
   },
   {
     "objectID": "about.html",
@@ -35,10 +42,17 @@
     "text": "Download current CV"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "Projects/trailcoder.html",
+    "href": "Projects/trailcoder.html",
+    "title": "TrailCoder",
     "section": "",
-    "text": "No matching items"
+    "text": "Github Code HTML File\nTrail Coder was created in Twine. Trail Coder is based on the video game classic The Oregon Trail, but is intended to teach players some of the basic mechanics of coding in python.\nTwine is a free software that is available for download and can be used to create choose-your-own adventure-type stories, which makes it an ideal platform for developing a choice-based video game. Since The Oregon Trail works on basic mechanics of player choice, we thought Twine would be an ideal platform to develop Trail Coder."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Article Title\n\n\nAuthors: Megan Hokama\n\n\n Image cap\n\n\n&lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt;\n\n\n\nCras justo odio\n\n\nDapibus ac facilisis in\n\n\nVestibulum at eros\n\n\n\n&lt;a href=\"#\" class=\"card-link\"&gt;Card link&lt;/a&gt;\n&lt;a href=\"#\" class=\"card-link\"&gt;Another link&lt;/a&gt;\n\n\nMay 27, 2024"
   }
 ]
