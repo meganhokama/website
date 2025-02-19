@@ -20,7 +20,7 @@ about:
 ::: {#hero-heading}
 :::
 
-<p style="text-align:center;">I am a PhD candidate in Educational Psychology at the University of Arizona. </p>
+<p style="text-align:center;">I am a PhD candidate in Educational Psychology with a minor in Informations at the University of Arizona. </p>
 
 <p style="text-align:center;">My **research** focuses on digital game-based learning to enhance data literacy and motivation, with **committment** to creating open-source learning spaces that inspire and support future researchers.</p>
 
