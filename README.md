@@ -1,8 +1,8 @@
-### ![](images/icon.png){width="34"} Personal website for Megan Hokama
+### ![](images/icon.png) Personal website for Megan Hokama
 
-Welcome to my repo for my personal/academic website! I utilized Quarto to put everything together.
+Welcome to my repo for my personal/academic website! I utilized Quarto and RStudio to put everything together.
 
-Still quite a work in progress but I am excited in making a site of my own\~ Thanks to the resources below for helping me find the framework of this website :)
+Still quite a work in progress but I am excited about making a site of my own\~ Thanks to the resources below for helping me find the framework of this website :)
 
 ### Resources
 
