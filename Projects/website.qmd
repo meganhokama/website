@@ -1,0 +1,20 @@
+---
+title: "Professional Website"
+description: "Quarto Website"
+author: 
+  - name: Meg Hokama
+    affiliation: University of Arizona
+date: "2025-02-17"
+image: /images/coding.jpg
+image-alt: "Coding image"
+categories:
+  - Website
+  - Quarto
+  - R
+---
+
+<a href="https://github.com/meganhokama/website" class="btn" role="button">Github Code</a> <a href="https://meganhokama.github.io/website/" class="btn" role="button">Website</a>
+
+This is my attempt at making my very own professional website using Quarto and R Studio. Hope you enjoy :)
+
+![](/images/coding.jpg)

@@ -2,7 +2,16 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/Projects/trailcoder.html"
+      "/Projects/website.html",
+      "/Projects/trailcoder.html",
+      "/Projects/Constellation Maps.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/Publications/2023_PersonalizedLearning.html",
+      "/Publications/2022_ReflectionsofHealthcareWorkers.html"
     ]
   }
 ]

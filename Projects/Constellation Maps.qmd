@@ -1,0 +1,31 @@
+---
+title: "Constellation Maps"
+description: "Project Final - Shiny App"
+author: 
+  - name: Meg Hokama
+    affiliation: University of Arizona
+  - name: Sai Madhuri Kandula
+    affiliation: University of Arizona
+  - name: Visalakshi Prakash Iyer
+    affiliation: University of Arizona
+  - name: Kiwoon Hong
+    affiliation: University of Arizona
+  - name: Tejashwini Kasa
+    affiliation: University of Arizona
+date: "2023-12-06"
+image: /images/constellationlogo.png
+image-alt: "Constellation Image"
+categories:
+  - R
+  - Shiny
+---
+
+<a href="https://github.com/INFO526-DataViz/project-final-Chart-Champions/tree/main" class="btn" role="button">Github Code</a> <a href="https://info526-dataviz.github.io/project-final-Chart-Champions/" class="btn" role="button">Website</a> <a href="https://bag6d9-visalakshi-iyer.shinyapps.io/starmapapp/" class="btn" role="button">App</a>
+
+![](/images/constellationlogo.png){fig-align="center"}
+
+<br>
+
+## Abstract
+
+This project aimed to develop a Shiny app that generates an interactive constellation maps, leveraging computational and visualization techniques. Utilizing the datasets are available in GeoJSON (*.geojson) and GeoPackage (*.gpkg) formats, we will be using three of the available data: the milkyway, the constellation lines, and the stars. The primary objective is to prioritize accessibility and personalization by allowing users to input specific geographic locations and time, resulting in contextually relevant and visually captivating constellation maps. The significance of this project is to enhance the appeal and educational value of stargazing by tailoring the experience through diverse elements such as color schemes, map locations, time zones, and latitude/longitude inputs. Furthermore, the app will be crafted with a user-friendly interface, aiming for inclusivity across diverse backgrounds and levels of astronomical expertise.

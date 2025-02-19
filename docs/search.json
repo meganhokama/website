@@ -1,45 +1,24 @@
 [
   {
+    "objectID": "Publications/2023_PersonalizedLearning.html",
+    "href": "Publications/2023_PersonalizedLearning.html",
+    "title": "Personalized Learning and the Development of Emotional Intelligence in a Global, Collaborative, STEM-Learning Environment",
+    "section": "",
+    "text": "This study examines how personalized learning attributes in informal, collaborative learning environments can impact reflections in middle and high school students. Six adolescent participants from three countries were interviewed following their participation in collaborating on STEM-related media projects. Analysis was conducted using epistemic network analysis examining interpersonal and intrapersonal codes. Statistically significant results with relatively small n indicate that the reflections of middle school students differed from those of high school students. Both middle and high school students expressed connections to Self-awareness and Cross-cultural Disposition, suggesting that personalized learning impacts students’ emotional intelligence (EI). However, middle school students expressed weaker connections in Self-awareness and Social Disposition than high school students, suggesting more exposure to personalized learning increases EI.\nDOI: 10.3102/2016743\nDownload Paper"
+  },
+  {
+    "objectID": "Publications/2023_PersonalizedLearning.html#abstract",
+    "href": "Publications/2023_PersonalizedLearning.html#abstract",
+    "title": "Personalized Learning and the Development of Emotional Intelligence in a Global, Collaborative, STEM-Learning Environment",
+    "section": "",
+    "text": "This study examines how personalized learning attributes in informal, collaborative learning environments can impact reflections in middle and high school students. Six adolescent participants from three countries were interviewed following their participation in collaborating on STEM-related media projects. Analysis was conducted using epistemic network analysis examining interpersonal and intrapersonal codes. Statistically significant results with relatively small n indicate that the reflections of middle school students differed from those of high school students. Both middle and high school students expressed connections to Self-awareness and Cross-cultural Disposition, suggesting that personalized learning impacts students’ emotional intelligence (EI). However, middle school students expressed weaker connections in Self-awareness and Social Disposition than high school students, suggesting more exposure to personalized learning increases EI.\nDOI: 10.3102/2016743\nDownload Paper"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "TrailCoder\n\n\n\nTwine\n\n\nHTML\n\n\nPython\n\n\n\nPython Coding Game - Twine\n\n\n\nMay 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Megan Hokama, MA",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nI am a PhD candidate in Educational Psychology at the University of Arizona.\n\n\nMy research focuses on digital game-based learning to enhance data literacy and motivation, with committment to creating open-source learning spaces that inspire and support future researchers.\n\n\nTeachingResearchSkillsHobbies\n\n\nI thrive on exploring impactful questions in collaboration with key stakeholders. My expertise lies in adeptly wrangling complex and contextually rich data to derive meaningful insights. Passionate about innovation, I develop novel tools and solutions to enhance the efficiency and findings of future analyses.\n\n\nAs an early-career professional working in Public Health, I actively seek projects that aim to elevate the human condition, transforming the way we work, play, and contribute to our communities. My recent work has focused on suicide, overdose, and injury prevention, and I have previous experience working in digital health, communicable disease prevention, and environmental health. As can be seen by the diversity of these experiences, I am a continuous learner and excited to exploring new fields where I can make an impact.\n\n\nAs a continuous learner, I have recently expanded my skillset to include topics such as Quarto, leveraging multiple programming languages (R/Python/SQL), package development, and interactive data visualization, and reproducible coding practices.\n\n\nI have many hobbies that help me explore and celebrate the awesome outdoor recreational spaces we have in Washington such as backcountry skiing, sailing, windsurfing, tennis, long distance running, and biking.Additionally, I love to cook (and share recipes), attend concerts & music festivals (I recommend THING), travel (I have traveled to 35 countries), and cheer on the Seahawks!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "University of Arizona | Tucson, AZ\nPepperdine University | Malibu, CA\nLoyola Marymount University | Los Angeles, CA"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "",
-    "text": "University of Arizona | Tucson, AZ\nPepperdine University | Malibu, CA\nLoyola Marymount University | Los Angeles, CA"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\nThe Biomarkers for Social, Psychological Health & Education Retention Explorers Lab | Project Coordinator | August 2021 to Present"
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum vitæ",
-    "section": "",
-    "text": "Download current CV"
+    "text": "Professional Website\n\n\n\nWebsite\n\n\nQuarto\n\n\nR\n\n\n\nQuarto Website\n\n\n\nFeb 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrailCoder\n\n\n\nTwine\n\n\nHTML\n\n\nPython\n\n\n\nPython Coding Game - Twine\n\n\n\nMay 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstellation Maps\n\n\n\nR\n\n\nShiny\n\n\n\nProject Final - Shiny App\n\n\n\nDec 6, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects/trailcoder.html",
@@ -49,10 +28,59 @@
     "text": "Github Code HTML File\nTrail Coder was created in Twine. Trail Coder is based on the video game classic The Oregon Trail, but is intended to teach players some of the basic mechanics of coding in python.\nTwine is a free software that is available for download and can be used to create choose-your-own adventure-type stories, which makes it an ideal platform for developing a choice-based video game. Since The Oregon Trail works on basic mechanics of player choice, we thought Twine would be an ideal platform to develop Trail Coder."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Megan Hokama, MA",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nI am a PhD candidate in Educational Psychology at the University of Arizona.\n\n\nMy research focuses on digital game-based learning to enhance data literacy and motivation, with committment to creating open-source learning spaces that inspire and support future researchers.\n\n\n\n Teaching Research Skills\n\n\nMy teaching experience includes serving as the instructor of record for EDP/PSY/HDFS 200: Evolution & Human Development at the University of Arizona, where I led undergraduate students in exploring human development. I have worked as a teaching assistant for graduate-level statistics courses, including EDP 541 (Statistical Methods in Education), EDP 641 (Selected Applications of Statistical Methods), and EDP 646 (Multivariate Methods in Education), providing support in understanding statistical concepts and leading in-person R and SPSS workshops.\n\n\nMy current research focuses on digital game-based learning and academic identity development for undergraduate students, specifically exploring how to promote positive expectancy-value beliefs. I also research on informal learning environments, emotion regulation, and acculturative stress in higher education settings. Explore more of my research interests in publications →\n\n\nI have recently expanded my skillset to include topics such as Quarto and Shiny. Additionally, I utilize multiple programming languages in my research including R, Mplus, and SPSS."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n\n  \n\n\n\n References\nAvailable upon request."
+  },
+  {
+    "objectID": "Projects/Constellation Maps.html",
+    "href": "Projects/Constellation Maps.html",
+    "title": "Constellation Maps",
+    "section": "",
+    "text": "Github Code Website App"
+  },
+  {
+    "objectID": "Projects/Constellation Maps.html#abstract",
+    "href": "Projects/Constellation Maps.html#abstract",
+    "title": "Constellation Maps",
+    "section": "Abstract",
+    "text": "Abstract\nThis project aimed to develop a Shiny app that generates an interactive constellation maps, leveraging computational and visualization techniques. Utilizing the datasets are available in GeoJSON (.geojson) and GeoPackage (.gpkg) formats, we will be using three of the available data: the milkyway, the constellation lines, and the stars. The primary objective is to prioritize accessibility and personalization by allowing users to input specific geographic locations and time, resulting in contextually relevant and visually captivating constellation maps. The significance of this project is to enhance the appeal and educational value of stargazing by tailoring the experience through diverse elements such as color schemes, map locations, time zones, and latitude/longitude inputs. Furthermore, the app will be crafted with a user-friendly interface, aiming for inclusivity across diverse backgrounds and levels of astronomical expertise."
+  },
+  {
+    "objectID": "Projects/website.html",
+    "href": "Projects/website.html",
+    "title": "Professional Website",
+    "section": "",
+    "text": "Github Code Website\nThis is my attempt at making my very own professional website using Quarto and R Studio. Hope you enjoy :)"
+  },
+  {
+    "objectID": "Publications/2022_ReflectionsofHealthcareWorkers.html",
+    "href": "Publications/2022_ReflectionsofHealthcareWorkers.html",
+    "title": "Reflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19",
+    "section": "",
+    "text": "The early stages of the COVID-19 pandemic intensified the role of healthcare workers in hospitals. This study examines how healthcare workers reflected on their in-hospital experiences in the early stages of the pandemic in North America. Audio diary entries from The Nocturnist podcast recorded from March – June 2020 were analyzed using epistemic network analysis (ENA) and heat map models. Overall, there was a shift from responding to immediate needs in March 2020 (such as Anger with Policies and Fear with Resource Availability) to deeper reflections in May-June 2020, more focused on Psychosocial Support and Purpose and more complex emotions involving Sadness and Compassion. Uncertainty was a prominent emotion throughout the May – June 2020 period. These results help document the complexity of reflections early in the pandemic, while informing ways to better support health care workers in future crisis.\nDOI: 10.1007/978-3-030-93859-8_17\nDownload Paper"
+  },
+  {
+    "objectID": "Publications/2022_ReflectionsofHealthcareWorkers.html#abstract",
+    "href": "Publications/2022_ReflectionsofHealthcareWorkers.html#abstract",
+    "title": "Reflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19",
+    "section": "",
+    "text": "The early stages of the COVID-19 pandemic intensified the role of healthcare workers in hospitals. This study examines how healthcare workers reflected on their in-hospital experiences in the early stages of the pandemic in North America. Audio diary entries from The Nocturnist podcast recorded from March – June 2020 were analyzed using epistemic network analysis (ENA) and heat map models. Overall, there was a shift from responding to immediate needs in March 2020 (such as Anger with Policies and Fear with Resource Availability) to deeper reflections in May-June 2020, more focused on Psychosocial Support and Purpose and more complex emotions involving Sadness and Compassion. Uncertainty was a prominent emotion throughout the May – June 2020 period. These results help document the complexity of reflections early in the pandemic, while informing ways to better support health care workers in future crisis.\nDOI: 10.1007/978-3-030-93859-8_17\nDownload Paper"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Article Title\n\n\nAuthors: Megan Hokama\n\n\n Image cap\n\n\n&lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt;\n\n\n\nCras justo odio\n\n\nDapibus ac facilisis in\n\n\nVestibulum at eros\n\n\n\n&lt;a href=\"#\" class=\"card-link\"&gt;Card link&lt;/a&gt;\n&lt;a href=\"#\" class=\"card-link\"&gt;Another link&lt;/a&gt;\n\n\nMay 27, 2024"
+    "text": "Title\nYear\nStatus\n\n\n\n\n“Future-oriented Motivation and Emotion Regulation Jointly Predicting Acculturative Stress in Youth with Multiple Marginalized Identities”\n2024\nIn submission\n\n\n“Speech-Language Service Utilization by Families With Young Children: The Role of Social Determinants of Health”\n2024\nIn submission\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonalized Learning and the Development of Emotional Intelligence in a Global, Collaborative, STEM-Learning Environment\n\n\n\ninformal learning\n\n\nemotional intelligence\n\n\nepistemic network analyses\n\n\n\n\n\n\n\nMay 5, 2023\n\n\n\n\n\n\n\n\n\n\n\nReflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19\n\n\n\nhealthcare workers\n\n\nemotions\n\n\nepistemic network analyses\n\n\n\n\n\n\n\nJan 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

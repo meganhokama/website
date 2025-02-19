@@ -9,6 +9,7 @@ cv:
   pdf: "/CV/Hokama_Megan_CV_012925.pdf"
 ---
 
+
 ```{css, echo=FALSE}
 #title-block-header .description {
     display: none;
@@ -48,3 +49,9 @@ cv:
 ```
 
 ------------------------------------------------------------------------
+
+### <i class="bi bi-list-check"></i> References
+
+*Available upon [request](mailto:meganhokama@arizona.edu).*
+
+

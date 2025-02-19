@@ -13,7 +13,6 @@ website:
       - CV.qmd
       - projects.qmd
       - publications.qmd
-      - StatQuest.qmd
   page-footer:
     border: true
     left: "© 2024 Megan Hokama"

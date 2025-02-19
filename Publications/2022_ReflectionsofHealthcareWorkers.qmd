@@ -1,0 +1,31 @@
+---
+title: "Reflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19"
+author: 
+  - name: Danielle Espino
+    affiliation: Pepperdine University
+  - name: Yutong Tan
+  - name: Orit Zigman Lador
+    affiliation: Pepperdine University
+  - name: Stephanie Alvarez Pham
+    affiliation: Pepperdine University
+  - name: Meg Hokama
+    affiliation: University of Arizona
+  - name: Luiz Oliveira
+  - name: Seung B. Lee
+    affiliation: Pepperdine University
+  - name: Zachariah Mbasu
+  
+date: "2022-01-11"
+categories:
+  - healthcare workers
+  - emotions
+  - epistemic network analyses
+---
+
+## Abstract
+
+The early stages of the COVID-19 pandemic intensified the role of healthcare workers in hospitals. This study examines how healthcare workers reflected on their in-hospital experiences in the early stages of the pandemic in North America. Audio diary entries from The Nocturnist podcast recorded from March – June 2020 were analyzed using epistemic network analysis (ENA) and heat map models. Overall, there was a shift from responding to immediate needs in March 2020 (such as Anger with Policies and Fear with Resource Availability) to deeper reflections in May-June 2020, more focused on Psychosocial Support and Purpose and more complex emotions involving Sadness and Compassion. Uncertainty was a prominent emotion throughout the May – June 2020 period. These results help document the complexity of reflections early in the pandemic, while informing ways to better support health care workers in future crisis.
+
+**DOI: 10.1007/978-3-030-93859-8_17**
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-93859-8_17#citeas" class="btn" role="button">Download Paper</a>

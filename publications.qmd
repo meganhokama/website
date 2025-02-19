@@ -1,65 +1,22 @@
 ---
 title: "Publications"
-format: html
+image: /images/constellationlogo.png
+image-alt: "constellation."
+listing:
+  contents: Publications
+  type: grid
+  fields: 
+    - title
+    - description
+    - date
+    - categories
+  categories: true
+  sort: "date desc"
 ---
 
-::::::: {.card .mb-3}
-<h3 class="card-header">
+| Title | Year | Status |
+|------------------------|------------------------|------------------------|
+| *"Future-oriented Motivation and Emotion Regulation Jointly Predicting Acculturative Stress in Youth with Multiple Marginalized Identities"* | 2024 | In submission |
+| *"Speech-Language Service Utilization by Families With Young Children: The Role of Social Determinants of Health"* | 2024 | In submission |
 
-Article Title
-
-</h3>
-
-::: card-body
-```         
-Authors: Megan Hokama
-```
-:::
-
-<svg xmlns="http://www.w3.org/2000/svg" class="d-block user-select-none" width="100%" height="200" aria-label="Placeholder: Image cap" focusable="false" role="img" preserveAspectRatio="xMidYMid slice" viewBox="0 0 318 180" style="font-size:1.125rem;text-anchor:middle">
-
-<rect width="100%" height="100%" fill="#868e96"></rect> <text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
-
-</svg>
-
-::: card-body
-```         
-<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-```
-:::
-
-<ul class="list-group list-group-flush">
-
-<li class="list-group-item">
-
-Cras justo odio
-
-</li>
-
-<li class="list-group-item">
-
-Dapibus ac facilisis in
-
-</li>
-
-<li class="list-group-item">
-
-Vestibulum at eros
-
-</li>
-
-</ul>
-
-::: card-body
-```         
-<a href="#" class="card-link">Card link</a>
-<a href="#" class="card-link">Another link</a>
-```
-:::
-
-::: {.card-footer .text-muted}
-```         
-May 27, 2024
-```
-:::
-:::::::
+<br>

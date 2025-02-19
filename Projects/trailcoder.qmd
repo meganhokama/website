@@ -3,8 +3,8 @@ title: "TrailCoder"
 description: "Python Coding Game - Twine"
 author: 
   - name: Meg Hokama
-    affiliation: UofA
-date: "2025-05-07"
+    affiliation: University of Arizona
+date: "2024-05-07"
 image: /images/oregontrail.png
 image-alt: "TrailCoder image"
 categories:
@@ -13,7 +13,7 @@ categories:
   - Python
 ---
 
-[ <a href="https://github.com/meganhokama/trail-coder" class="btn" role="button">Github Code</a> <a href="https://github.com/meganhokama/trail-coder/blob/main/Trail_Coder_Final.html" class="btn" role="button">HTML File</a> ]{.listing-btn-group}
+[<a href="https://github.com/meganhokama/trail-coder" class="btn" role="button">Github Code</a> <a href="https://github.com/meganhokama/trail-coder/blob/main/Trail_Coder_Final.html" class="btn" role="button">HTML File</a>]{.listing-btn-group}
 
 Trail Coder was created in Twine. Trail Coder is based on the video game classic The Oregon Trail, but is intended to teach players some of the basic mechanics of coding in python.
 

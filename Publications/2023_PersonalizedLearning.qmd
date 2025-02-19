@@ -1,0 +1,26 @@
+---
+title: "Personalized Learning and the Development of Emotional Intelligence in a Global, Collaborative, STEM-Learning Environment"
+author: 
+  - name: Meg Hokama
+    affiliation: University of Arizona
+  - name: Taylor Lowe
+  - name: Yutong Tan
+  - name: Danielle Espino
+    affiliation: Pepperdine University
+  - name: Eric Hamilton
+    affiliation: Pepperdine University
+  
+date: "2023-05-05"
+categories:
+  - informal learning
+  - emotional intelligence
+  - epistemic network analyses
+---
+
+## Abstract
+
+This study examines how personalized learning attributes in informal, collaborative learning environments can impact reflections in middle and high school students. Six adolescent participants from three countries were interviewed following their participation in collaborating on STEM-related media projects. Analysis was conducted using epistemic network analysis examining interpersonal and intrapersonal codes. Statistically significant results with relatively small n indicate that the reflections of middle school students differed from those of high school students. Both middle and high school students expressed connections to Self-awareness and Cross-cultural Disposition, suggesting that personalized learning impacts students’ emotional intelligence (EI). However, middle school students expressed weaker connections in Self-awareness and Social Disposition than high school students, suggesting more exposure to personalized learning increases EI.
+
+**DOI: 10.3102/2016743**
+
+<a href="https://www.aera.net/Publications/Online-Paper-Repository/AERA-Online-Paper-Repository-Viewer/ID/2016743" class="btn" role="button">Download Paper</a>
