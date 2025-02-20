@@ -1,4 +1,4 @@
-### ![](images/icon.png){width="38"} Personal website for Megan Hokama
+### 👋 Personal website for Megan Hokama
 
 Welcome to my repo for my personal/professional website! I utilized Quarto and RStudio to put everything together.
 
