@@ -12,7 +12,10 @@ website:
         text: Home
       - CV.qmd
       - projects.qmd
-      - publications.qmd
+      - text: "Publications"
+        menu: 
+          - publications.qmd
+          - insubmission.qmd
   page-footer:
     border: true
     left: "© 2024 Megan Hokama"

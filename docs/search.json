@@ -28,11 +28,11 @@
     "text": "Github Code HTML File\nTrail Coder was created in Twine. Trail Coder is based on the video game classic The Oregon Trail, but is intended to teach players some of the basic mechanics of coding in python.\nTwine is a free software that is available for download and can be used to create choose-your-own adventure-type stories, which makes it an ideal platform for developing a choice-based video game. Since The Oregon Trail works on basic mechanics of player choice, we thought Twine would be an ideal platform to develop Trail Coder."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Megan Hokama, MA",
+    "objectID": "insubmission.html",
+    "href": "insubmission.html",
+    "title": "In Submission",
     "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nI am a PhD candidate in Educational Psychology at the University of Arizona.\n\n\nMy research focuses on digital game-based learning to enhance data literacy and motivation, with committment to creating open-source learning spaces that inspire and support future researchers.\n\n\n\n Teaching Research Skills\n\n\nMy teaching experience includes serving as the instructor of record for EDP/PSY/HDFS 200: Evolution & Human Development at the University of Arizona, where I led undergraduate students in exploring human development. I have worked as a teaching assistant for graduate-level statistics courses, including EDP 541 (Statistical Methods in Education), EDP 641 (Selected Applications of Statistical Methods), and EDP 646 (Multivariate Methods in Education), providing support in understanding statistical concepts and leading in-person R and SPSS workshops.\n\n\nMy current research focuses on digital game-based learning and academic identity development for undergraduate students, specifically exploring how to promote positive expectancy-value beliefs. I also research on informal learning environments, emotion regulation, and acculturative stress in higher education settings. Explore more of my research interests in publications →\n\n\nI have recently expanded my skillset to include topics such as Quarto and Shiny. Additionally, I utilize multiple programming languages in my research including R, Mplus, and SPSS."
+    "text": "Title\nYear\nStatus\n\n\n\n\n“Future-oriented Motivation and Emotion Regulation Jointly Predicting Acculturative Stress in Youth with Multiple Marginalized Identities”\n2024\nIn submission\n\n\n“Speech-Language Service Utilization by Families With Young Children: The Role of Social Determinants of Health”\n2024\nIn submission"
   },
   {
     "objectID": "CV.html",
@@ -40,6 +40,13 @@
     "title": "Curriculum vitæ",
     "section": "",
     "text": "Download current CV\n  \n\n\n\n  \n\n\n\n References\nAvailable upon request."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Megan Hokama, MA",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nI am a PhD candidate in Educational Psychology with a minor in Informations at the University of Arizona.\n\n\nMy research focuses on digital game-based learning to enhance data literacy and motivation, with committment to creating open-source learning spaces that inspire and support future researchers.\n\n\n\n Teaching Research Skills\n\n\nMy teaching experience includes serving as the instructor of record for EDP/PSY/HDFS 200: Evolution & Human Development at the University of Arizona, where I led undergraduate students in exploring human development. I have worked as a teaching assistant for graduate-level statistics courses, including EDP 541 (Statistical Methods in Education), EDP 641 (Selected Applications of Statistical Methods), and EDP 646 (Multivariate Methods in Education), providing support in understanding statistical concepts and leading in-person R and SPSS workshops.\n\n\nMy current research focuses on digital game-based learning and academic identity development for undergraduate students, specifically exploring how to promote positive expectancy-value beliefs. I also research on informal learning environments, emotion regulation, and acculturative stress in higher education settings. Explore more of my research interests in publications →\n\n\nI have recently expanded my skillset to include topics such as Quarto and Shiny. Additionally, I utilize multiple programming languages in my research including R, Mplus, and SPSS."
   },
   {
     "objectID": "Projects/Constellation Maps.html",
@@ -81,6 +88,6 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Title\nYear\nStatus\n\n\n\n\n“Future-oriented Motivation and Emotion Regulation Jointly Predicting Acculturative Stress in Youth with Multiple Marginalized Identities”\n2024\nIn submission\n\n\n“Speech-Language Service Utilization by Families With Young Children: The Role of Social Determinants of Health”\n2024\nIn submission\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonalized Learning and the Development of Emotional Intelligence in a Global, Collaborative, STEM-Learning Environment\n\n\n\ninformal learning\n\n\nemotional intelligence\n\n\nepistemic network analyses\n\n\n\n\n\n\n\nMay 5, 2023\n\n\n\n\n\n\n\n\n\n\n\nReflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19\n\n\n\nhealthcare workers\n\n\nemotions\n\n\nepistemic network analyses\n\n\n\n\n\n\n\nJan 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Personalized Learning and the Development of Emotional Intelligence in a Global, Collaborative, STEM-Learning Environment\n\n\n\ninformal learning\n\n\nemotional intelligence\n\n\nepistemic network analyses\n\n\n\n\n\n\n\nMay 5, 2023\n\n\n\n\n\n\n\n\n\n\n\nReflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19\n\n\n\nhealthcare workers\n\n\nemotions\n\n\nepistemic network analyses\n\n\n\n\n\n\n\nJan 11, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
