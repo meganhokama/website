@@ -4,7 +4,9 @@ author:
   - name: Meg Hokama
     affiliation: University of Arizona
   - name: Taylor Lowe
+    affiliation: California State University, Northridge
   - name: Yutong Tan
+    affiliation: Pepperdine University
   - name: Danielle Espino
     affiliation: Pepperdine University
   - name: Eric Hamilton
@@ -13,7 +15,7 @@ author:
 date: "2023-05-05"
 categories:
   - informal learning
-  - emotional intelligence
+  - emotions
   - epistemic network analyses
   - paper
 ---
