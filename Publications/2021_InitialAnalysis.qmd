@@ -1,0 +1,27 @@
+---
+title: "Initial Analysis of Prompted Discourse Patterns in an Informal, Online, Global Collaborative Learning Environment"
+author: 
+  - name: Danielle Espino
+    affiliation: Pepperdine University
+  - name: Seung B. Lee
+    affiliation: Pepperdine University
+  - name: Meg Hokama
+    affiliation: University of Arizona
+  - name: Eric R. Hamilton
+    affiliation: Pepperdine University
+  
+date: "2021-06-11"
+categories:
+  - informal learning 
+  - STEM
+  - epistemic network analyses
+  - paper
+---
+
+## **Abstract**
+
+This analysis examines the discourse patterns of adolescent participants from two countries while engaging in synchronous video conference calls to collaborate on STEMoriented media projects. Epistemic Network Analysis (ENA) is used to examine the influence of prompting on student discourse. Results highlight how unscripted prompting helps to generate rich, diverse responses connected to content and curiosity that might not otherwise take place.
+
+**DOI: https://doi.dx.org/10.22318/cscl2021.299**
+
+<a href="https://repository.isls.org/bitstream/1/7353/1/299-300.pdf" class="btn" role="button">Download Paper</a>

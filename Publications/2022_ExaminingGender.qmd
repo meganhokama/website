@@ -1,0 +1,27 @@
+---
+title: "Examining Gender Differences in Identity Development Within an Online, Global, Collaborative, Informal STEM-learning Community"
+author: 
+  - name: Danielle Espino
+    affiliation: Pepperdine University
+  - name: Meg Hokama
+    affiliation: University of Arizona
+  - name: Taylor Lowe
+    affiliation: California State University, Northridge
+  - name: Eric R. Hamilton
+    affiliation: Pepperdine University
+  
+date: "2022-05-05"
+categories:
+  - informal learning
+  - gender
+  - epistemic network analyses
+  - poster
+---
+
+## Abstract
+
+This study examines how a learning environment that incorporates aspects of intergroup contact might impact identity development and expression. Adolescent students collaborate on creating STEM-related media projects in this global, virtual environment during weekly video conference calls, which were coded for social and self-identity constructs and analyzed using epistemic network analysis (ENA) to compare differences by gender. Literature anticipated that female students would reflect social identity constructs and male students reflect self-identity constructs, but the opposite was found indicating intergroup contact might defy expected outcomes and complement student identity development among adolescents.
+
+**DOI: https://dx.doi.org/10.22318/icls2022.2206**
+
+<a href="https://repository.isls.org/bitstream/1/8789/1/ICLS2022_2206-2207.pdf" class="btn" role="button">Download Paper</a>

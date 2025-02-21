@@ -1,11 +1,11 @@
 ---
 title: "In Submission"
-subtitle: Here are a few works I am currently working on
+subtitle: Here are a few works that are currently in progress
 format: html
 ---
 
 | Title | Year | Status |
-|:----------------------------:|:-----------------:|:---------------------:|
+|:--:|:--:|:--:|
 | *"Future-oriented Motivation and Emotion Regulation Jointly Predicting Acculturative Stress in Youth with Multiple Marginalized Identities"* | 2024 | In submission |
 | *"Speech-Language Service Utilization by Families With Young Children: The Role of Social Determinants of Health"* | 2024 | In submission |
 

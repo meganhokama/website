@@ -1,0 +1,27 @@
+---
+title: "Reflections of Health Care Workers on Their In-Hospital Experiences During the Onset of COVID-19"
+author: 
+  - name: Meg Hokama
+    affiliation: University of Arizona  
+  - name: Taylor Lowe
+    affiliation: California State University, Northridge
+  - name: Danielle Espino
+    affiliation: Pepperdine University
+  - name: Eric Hamilton
+    affiliation: Pepperdine University
+  
+date: "2022-01-05"
+categories:
+  - identity development
+  - informal learning
+  - epistemic network analyses
+  - paper
+---
+
+## Abstract
+
+Identity formation is central to positive adolescent development as young learners navigate collaborative, educational environments (McLean & Breen, 2009). A positive personal identity is associated with increased subjective well-being, positive academic self-concepts, and a stronger sense of agency (Booker et al., 2021; Ricks et al., 2021). Adolescents spend a significant portion of their development in educational spaces. As a result, it is vital to identify how adolescents develop a stronger sense of self in academic environments by presenting collaborative, learning opportunities. In this paper, we seek to evaluate various themes of identity development through the lens of self-authorship and agency by analyzing individual reflective interviews of adolescent learners.
+
+**DOI: 10.1007/978-3-030-93859-8_17**
+
+<a href="https://osf.io/e4cqr" class="btn" role="button">Download Paper</a>

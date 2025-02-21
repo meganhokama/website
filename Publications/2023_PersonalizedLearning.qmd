@@ -15,6 +15,7 @@ categories:
   - informal learning
   - emotional intelligence
   - epistemic network analyses
+  - paper
 ---
 
 ## Abstract
