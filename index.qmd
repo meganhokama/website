@@ -20,24 +20,30 @@ about:
 ::: {#hero-heading}
 :::
 
-<p style="text-align:center;">I am a PhD candidate in Educational Psychology with a minor in Informations at the University of Arizona. </p>
+<p style="text-align:center;">
 
-<p style="text-align:center;">My **research** focuses on digital game-based learning to enhance data literacy and motivation, with **committment** to creating open-source learning spaces that inspire and support future researchers.</p>
+I am a PhD candidate in Educational Psychology with a minor in Informations at the University of Arizona.
+
+</p>
+
+<p style="text-align:center;">
+
+My **research** focuses on digital game-based learning to enhance data literacy and motivation, with **committment** to creating open-source learning spaces that inspire and support future researchers.
+
+</p>
 
 <br>
 
 ::: panel-tabset
 ## <i class="bi bi-mortarboard-fill"></i> [**Teaching**]{.h2}
 
-My teaching experience includes serving as the instructor of record for EDP/PSY/HDFS 200: Evolution & Human Development at the University of Arizona, where I led undergraduate students in exploring human development. I have worked as a teaching assistant for graduate-level statistics courses, including EDP 541 (Statistical Methods in Education), EDP 641 (Selected Applications of Statistical Methods), and EDP 646 (Multivariate Methods in Education), providing support in understanding statistical concepts and leading in-person R and SPSS workshops. 
+My teaching experience includes serving as the instructor of record for EDP/PSY/HDFS 200: Evolution & Human Development at the University of Arizona, where I led undergraduate students in exploring human development. I have worked as a teaching assistant for graduate-level statistics courses, including EDP 541 (Statistical Methods in Education), EDP 641 (Selected Applications of Statistical Methods), and EDP 646 (Multivariate Methods in Education), providing support in understanding statistical concepts and leading in-person R and SPSS workshops.
 
 ## <i class="bi bi-journal-bookmark-fill"></i> [**Research**]{.h2}
 
-My current research focuses on digital game-based learning and academic identity development for undergraduate students, specifically exploring how to promote positive expectancy-value beliefs. I also research on informal learning environments, emotion regulation, and acculturative stress in higher education settings. Explore more of my research interests in [publications &rarr;](/publications.qmd)
+My current research focuses on digital game-based learning and academic identity development for undergraduate students, specifically exploring how to promote positive expectancy-value beliefs. I also research on informal learning environments, emotion regulation, and acculturative stress in higher education settings. Explore more of my research interests in [publications →](/publications.qmd)
 
 ## <i class="bi bi-tools"></i> [**Skills**]{.h2}
 
-I have recently expanded my skillset to include topics such as Quarto and Shiny. Additionally, I utilize multiple programming languages in my research including R, Mplus, and SPSS. 
-
-
+I have recently expanded my skillset to include topics such as Quarto and Shiny. Additionally, I utilize multiple programming languages in my research including R, Mplus, and SPSS.
 :::
